@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ats-scanner-project'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A30B04B932C943ACA0114B88BA01A01A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0822FC33733D4624BAE0AB67B1F6D274 }}
           package: .
